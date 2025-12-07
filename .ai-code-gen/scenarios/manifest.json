@@ -1,0 +1,16 @@
+{
+  "artifact_type": "scenarios",
+  "generated_at": "2025-12-07T13:28:48.616392Z",
+  "files": [
+    "transactionoutput_module.feature",
+    "utxo_module_functionality.feature",
+    "fee_estimation.feature",
+    "address_class.feature",
+    "tostring_method.feature",
+    "fee_estimation.feature",
+    "estimate_fee_calculation.feature",
+    "privatekey_class.feature",
+    "generate_method.feature"
+  ],
+  "total_files": 9
+}
