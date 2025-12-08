@@ -1,0 +1,14 @@
+{
+  "artifact_type": "docs",
+  "generated_at": "2025-12-08T18:52:58.685052Z",
+  "files": [
+    "technical-specification.md",
+    "architecture.md",
+    "api-reference.md",
+    "data-model.md",
+    "security.md",
+    "deployment.md",
+    "developer-guide.md"
+  ],
+  "total_files": 7
+}
