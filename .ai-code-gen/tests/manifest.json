@@ -1,0 +1,12 @@
+{
+  "artifact_type": "tests",
+  "generated_at": "2025-12-12T17:05:00.356149Z",
+  "files": [
+    "tests/com.example.bitcoin.TransactionOutputTest.kt",
+    "tests/com.example.bitcoin.UtxoTest.kt",
+    "tests/com.example.bitcoin.TransactionInputTest.kt",
+    "tests/FeeEstimator.ktTest.kt",
+    "tests/AddressTest.kt"
+  ],
+  "total_files": 5
+}
