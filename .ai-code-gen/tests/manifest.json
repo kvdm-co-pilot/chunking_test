@@ -1,0 +1,9 @@
+{
+  "artifact_type": "tests",
+  "generated_at": "2025-12-13T11:01:15.243658Z",
+  "files": [
+    "tests/TransactionOutputTest.kt",
+    "tests/UtxoTest.kt"
+  ],
+  "total_files": 2
+}
