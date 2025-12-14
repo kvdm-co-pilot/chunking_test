@@ -1,0 +1,17 @@
+{
+  "artifact_type": "tests",
+  "generated_at": "2025-12-14T19:45:24.838362Z",
+  "files": [
+    "src/main/kotlin/com/example/bitcoin/TransactionOutputTest.kt",
+    "src/main/kotlin/com/example/bitcoin/UtxoTest.kt",
+    "src/main/kotlin/com/example/bitcoin/TransactionInputTest.kt",
+    "src/main/kotlin/com/example/bitcoin/FeeEstimatorTest.kt",
+    "src/main/kotlin/com/example/bitcoin/AddressTest.kt",
+    "src/main/kotlin/com/example/bitcoin/PrivateKeyTest.kt",
+    "src/main/kotlin/com/example/bitcoin/PublicKeyTest.kt",
+    "src/main/kotlin/com/example/bitcoin/TransactionTest.kt",
+    "src/main/kotlin/com/example/bitcoin/WalletTest.kt",
+    "src/main/kotlin/com/example/bitcoin/WalletServiceTest.kt"
+  ],
+  "total_files": 10
+}
