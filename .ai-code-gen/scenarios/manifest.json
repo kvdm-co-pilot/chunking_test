@@ -1,0 +1,17 @@
+{
+  "artifact_type": "scenarios",
+  "generated_at": "2025-12-14T23:06:10.515466Z",
+  "files": [
+    "transactionoutput_module.feature",
+    "transactioninput_module.feature",
+    "utxo_module.feature",
+    "bitcoin_transaction_fee_estimation.feature",
+    "bitcoin_address_string_representation.feature",
+    "address_validation.feature",
+    "fee_estimation.feature",
+    "estimate_transaction_fee.feature",
+    "privatekey_generation_and_conversion.feature",
+    "generate_privatekey.feature"
+  ],
+  "total_files": 10
+}
